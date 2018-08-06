@@ -5,6 +5,7 @@
 
 <body>
  <nav>
- <a href="habitat.html"> </a>
+ <a href="habitat.html"> Habitat </a> |
+ <a href="food.html"> Food </a> |
         
         
